@@ -1,0 +1,4 @@
+# Ignore everything in this file
+*
+# Expect this file
+!.gitignore
